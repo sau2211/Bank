@@ -9,6 +9,7 @@ public class LoginPage {
 
 	WebDriver driver ;
 	
+	
 	public LoginPage(WebDriver driver) {
 		
 		PageFactory.initElements(driver,this);
