@@ -1,0 +1,21 @@
+INFO	2021-05-09 16:27:15,610	0	internetbanking	[main]	base url is opened
+INFO	2021-05-09 16:27:28,477	12867	internetbanking	[main]	username is entered
+INFO	2021-05-09 16:27:28,562	12952	internetbanking	[main]	password is entered
+INFO	2021-05-09 16:27:31,318	15708	internetbanking	[main]	login test passed
+INFO	2021-05-14 15:50:45,822	0	internetbanking	[main]	base url is opened
+INFO	2021-05-14 15:50:57,457	11635	internetbanking	[main]	username is entered
+INFO	2021-05-14 15:50:57,541	11719	internetbanking	[main]	password is entered
+INFO	2021-05-14 15:53:12,215	0	internetbanking	[main]	base url is opened
+INFO	2021-05-14 15:53:23,618	11403	internetbanking	[main]	username is entered
+INFO	2021-05-14 15:53:23,704	11489	internetbanking	[main]	password is entered
+INFO	2021-05-14 15:56:08,668	1	internetbanking	[main]	base url is opened
+INFO	2021-05-14 15:57:02,959	0	internetbanking	[main]	base url is opened
+INFO	2021-05-14 15:57:11,690	8731	internetbanking	[main]	username is entered
+INFO	2021-05-14 15:57:11,784	8825	internetbanking	[main]	password is entered
+INFO	2021-05-14 15:58:53,256	0	internetbanking	[main]	base url is opened
+INFO	2021-05-14 15:59:02,172	8916	internetbanking	[main]	username is entered
+INFO	2021-05-14 15:59:02,243	8987	internetbanking	[main]	password is entered
+INFO	2021-05-14 16:00:48,963	0	internetbanking	[main]	base url is opened
+INFO	2021-05-14 16:01:01,366	12403	internetbanking	[main]	username is entered
+INFO	2021-05-14 16:01:01,447	12484	internetbanking	[main]	password is entered
+INFO	2021-05-14 16:01:02,648	13685	internetbanking	[main]	login test passed
